@@ -1,0 +1,8 @@
+name: LavaRise
+version: '${version}'
+main: plugins.nate.lavarise.LavaRise
+api-version: 1.20
+commands:
+  lr:
+    description: Lava rise base command
+    usage: /<command>
