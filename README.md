@@ -8,7 +8,7 @@ Using this plugin will result in the destruction of parts of your Minecraft worl
 ## Commands
 
 1. **/lr start**
-   - Starts the Lava Rise, creates a world border around you with the number you have configured (100 radius default) in the config.yml file
+   - Starts the Lava Rise, creates a world border around you with a configurable size in the config.yml file (100 block radius is default)
 
 2. **/lr stop**
    - Stops the Lava Rise, halting the lava from rising any further.
